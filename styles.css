@@ -1,0 +1,10 @@
+.winningscore{
+   color:Green;
+
+}
+.lossingscore{
+    color: red;
+}
+body{
+    background-color: antiquewhite;
+}
