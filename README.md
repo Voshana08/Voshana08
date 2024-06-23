@@ -1,8 +1,5 @@
-As a dedicated software engineering student at Monash University, I'm deeply passionate about the ever-evolving field of information technology. 
-Committed to continuous learning, I believe staying ahead in the IT sector requires constant skill development. 
-I actively pursue knowledge through virtual platforms, ensuring a competitive edge. Collaborating in university development teams has honed my teamwork and communication skills. 
-Notably, I've applied my skills in two full-scale development projects as part of my capstone projects. Post-graduation, I'm eager to contribute to the IT sector,
-leveraging my knowledge, passion, and skills to make a meaningful impact on society.
+As a dedicated software development graduate from Monash University, I am passionate about the ever- evolving IT field and committed to continuous learning. My experience in university projects and extracurricular activities has sharpened my teamwork and communication skills, allowing me to thrive in collaborative environments and bring innovative ideas to life. I have successfully utilized my skills in two full-scale capstone projects for clients, as well as in various personal projects. I wish to leverage my diverse skill set to make a meaningful impact in a dynamic team.
+
 
 
 
